@@ -2,16 +2,32 @@
 
 A beginner-friendly Smart IoT Dashboard built using HTML, CSS, and JavaScript.
 
-## Features
-- Temperature simulation
-- Humidity simulation
-- Device ON/OFF button
-- Responsive dashboard layout
+## 🚀 Features
 
-## Technologies Used
+- 🌡️ Simulated Temperature Monitoring
+- 💧 Simulated Humidity Monitoring
+- 🔘 Device ON/OFF Toggle
+- 📱 Responsive Dashboard Layout
+- ⚡ Dynamic Updates using JavaScript
+
+## 🛠️ Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript
 
-## Author
-Jatin Sharma
+## 📸 Preview
+
+(Add a screenshot here later)
+
+## 📚 What I Learned
+
+- DOM Manipulation
+- Event Handling
+- JavaScript Functions
+- setInterval()
+- Responsive Design
+
+## 👨‍💻 Author
+
+**Jatin Sharma**
